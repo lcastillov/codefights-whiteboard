@@ -6,11 +6,11 @@ This repository contains my own solutions to problems posted in [Codefights](htt
 
 ### Arcade
 
-* [Intro](arcade/intro/README.md)
-* [Databases](arcade/databases/README.md)
-* [The Core](arcade/the-core/README.md)
-* [Python](arcade/python/README.md)
-* [Graphs](arcade/graphs/README.md)
+* [Intro](arcade/intro)
+* [Databases](arcade/databases)
+* [The Core](arcade/the-core)
+* [Python](arcade/python)
+* [Graphs](arcade/graphs)
 
 ### Interview Practice
 

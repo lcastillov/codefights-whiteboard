@@ -2,16 +2,16 @@
 
 ## Meet Python
 
-* [Problem 01: Collections Truthness](https://codefights.com/arcade/python-arcade/meet-python/H9raD7Bdb3D2847f9)
-* [Problem 02: Efficient Comparison](https://codefights.com/arcade/python-arcade/meet-python/NWtSkp4Gd8ZeKc5R5)
-* [Problem 03: Special Conditional](https://codefights.com/arcade/python-arcade/meet-python/2iE97RD5zdYLek4cy)
-* [Problem 04: Language Differences](https://codefights.com/arcade/python-arcade/meet-python/CL9QBaQkamZEn7pb6)
-* [Problem 05: Count Bits](https://codefights.com/arcade/python-arcade/meet-python/7bGkfoFf65CiqbX3s)
-* [Problem 06: Modulus](https://codefights.com/arcade/python-arcade/meet-python/mygD2J9yDbRmtKW8T)
-* [Problem 07: Simple Sort](https://codefights.com/arcade/python-arcade/meet-python/MEgcxkQyYqFDdySnH)
-* [Problem 08: Base Convertion](https://codefights.com/arcade/python-arcade/meet-python/u7FW6fpp8Mqxe6sjt)
-* [Problem 09: Mex Function](https://codefights.com/arcade/python-arcade/meet-python/pLsMG462nzEh3axHN)
-* [Problem 10: List Beautifier](https://codefights.com/arcade/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ)
+* [Problem 01: Collections Truthness](https://codefights.com/arcade/python-arcade/meet-python/H9raD7Bdb3D2847f9) | [solution](meet-python/problem-01)
+* [Problem 02: Efficient Comparison](https://codefights.com/arcade/python-arcade/meet-python/NWtSkp4Gd8ZeKc5R5) | [solution](meet-python/problem-02)
+* [Problem 03: Special Conditional](https://codefights.com/arcade/python-arcade/meet-python/2iE97RD5zdYLek4cy) | [solution](meet-python/problem-03)
+* [Problem 04: Language Differences](https://codefights.com/arcade/python-arcade/meet-python/CL9QBaQkamZEn7pb6) | [solution](meet-python/problem-04)
+* [Problem 05: Count Bits](https://codefights.com/arcade/python-arcade/meet-python/7bGkfoFf65CiqbX3s) | [solution](meet-python/problem-05)
+* [Problem 06: Modulus](https://codefights.com/arcade/python-arcade/meet-python/mygD2J9yDbRmtKW8T) | [solution](meet-python/problem-06)
+* [Problem 07: Simple Sort](https://codefights.com/arcade/python-arcade/meet-python/MEgcxkQyYqFDdySnH) | [solution](meet-python/problem-07)
+* [Problem 08: Base Convertion](https://codefights.com/arcade/python-arcade/meet-python/u7FW6fpp8Mqxe6sjt) | [solution](meet-python/problem-08)
+* [Problem 09: Mex Function](https://codefights.com/arcade/python-arcade/meet-python/pLsMG462nzEh3axHN) | [solution](meet-python/problem-09)
+* [Problem 10: List Beautifier](https://codefights.com/arcade/python-arcade/meet-python/ZiezPAoWeaK9ThXvQ) | [solution](meet-python/problem-10)
 
 ## Slithering in Strings
 
