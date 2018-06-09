@@ -13,6 +13,6 @@ if xs[0]:
 
 ## Solution
 
-This quiz expects from you to know the explicit conversion from list to boolean. A list/tuple will evaluate to `False` only if it's empty.
+This quiz expects from you to know the implicit conversion from list to boolean. A list/tuple will evaluate to `False` only if it's empty.
 
 In the snippet, `xs` is a non-empty list and `xs[0]` is an empty tuple. So `res` will be `[True, False]` at the end.
