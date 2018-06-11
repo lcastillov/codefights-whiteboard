@@ -28,11 +28,11 @@
 
 ## Lurking in Lists
 
-* [Problem 21: List Multiplication](https://codefights.com/arcade/python-arcade/lurking-in-lists/FBsDp8XJZrKNPEEmq)
-* [Problem 22: Lists Concatenation](https://codefights.com/arcade/python-arcade/lurking-in-lists/FumSx4KegrFbSRdQ4)
-* [Problem 23: Two Teams](https://codefights.com/arcade/python-arcade/lurking-in-lists/xacqXRHoHhEC3dC4N)
-* [Problem 24: Remove Tasks](https://codefights.com/arcade/python-arcade/lurking-in-lists/L3TQWdGMcWL85LHcR)
-* [Problem 25: Print List](https://codefights.com/arcade/python-arcade/lurking-in-lists/2nwFuRGHpmfRJ8GCo)
+* [Problem 21: List Multiplication](https://codefights.com/arcade/python-arcade/lurking-in-lists/FBsDp8XJZrKNPEEmq) | [solution](lurking-in-lists/problem-21)
+* [Problem 22: Lists Concatenation](https://codefights.com/arcade/python-arcade/lurking-in-lists/FumSx4KegrFbSRdQ4) | [solution](lurking-in-lists/problem-22)
+* [Problem 23: Two Teams](https://codefights.com/arcade/python-arcade/lurking-in-lists/xacqXRHoHhEC3dC4N) | [solution](lurking-in-lists/problem-23)
+* [Problem 24: Remove Tasks](https://codefights.com/arcade/python-arcade/lurking-in-lists/L3TQWdGMcWL85LHcR) | [solution](lurking-in-lists/problem-24)
+* [Problem 25: Print List](https://codefights.com/arcade/python-arcade/lurking-in-lists/2nwFuRGHpmfRJ8GCo) | [solution](lurking-in-lists/problem-25)
 
 ## Lambda Illusions
 
