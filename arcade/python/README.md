@@ -15,16 +15,16 @@
 
 ## Slithering in Strings
 
-* [Problem 11: String Definition](https://codefights.com/arcade/python-arcade/slithering-in-strings/uFZNH5s2oXnFXiQzq)
-* [Problem 12: Fix Message](https://codefights.com/arcade/python-arcade/slithering-in-strings/Wmdqw8NBzcbqHSsw7)
-* [Problem 13: Cat Walk](https://codefights.com/arcade/python-arcade/slithering-in-strings/GH7QauS4xyHin5YLm)
-* [Problem 14: Convert Tabs](https://codefights.com/arcade/python-arcade/slithering-in-strings/joYKtZyJDDsFQBLHP)
-* [Problem 15: Feedback Review](https://codefights.com/arcade/python-arcade/slithering-in-strings/Rzf4YKMk69Jm3gNnm)
-* [Problem 16: Is Word Palindrome](https://codefights.com/arcade/python-arcade/slithering-in-strings/r6xwnEjaw5kNgsyZD)
-* [Problem 17: Permutation Chiper](https://codefights.com/arcade/python-arcade/slithering-in-strings/YADembruQtLCmiBKB)
-* [Problem 18: Competitive Eating](https://codefights.com/arcade/python-arcade/slithering-in-strings/BPFsda3ddPJruBX24)
-* [Problem 19: New Style Formatting](https://codefights.com/arcade/python-arcade/slithering-in-strings/GADdmPKQivSzQGYLw)
-* [Problem 20: Get commit](https://codefights.com/arcade/python-arcade/slithering-in-strings/FmSEJMu8fbybQ7Ka4)
+* [Problem 11: String Definition](https://codefights.com/arcade/python-arcade/slithering-in-strings/uFZNH5s2oXnFXiQzq) | [solution](slithering-in-strings/problem-11)
+* [Problem 12: Fix Message](https://codefights.com/arcade/python-arcade/slithering-in-strings/Wmdqw8NBzcbqHSsw7) | [solution](slithering-in-strings/problem-12)
+* [Problem 13: Cat Walk](https://codefights.com/arcade/python-arcade/slithering-in-strings/GH7QauS4xyHin5YLm) | [solution](slithering-in-strings/problem-13)
+* [Problem 14: Convert Tabs](https://codefights.com/arcade/python-arcade/slithering-in-strings/joYKtZyJDDsFQBLHP) | [solution](slithering-in-strings/problem-14)
+* [Problem 15: Feedback Review](https://codefights.com/arcade/python-arcade/slithering-in-strings/Rzf4YKMk69Jm3gNnm) | [solution](slithering-in-strings/problem-15)
+* [Problem 16: Is Word Palindrome](https://codefights.com/arcade/python-arcade/slithering-in-strings/r6xwnEjaw5kNgsyZD) | [solution](slithering-in-strings/problem-16)
+* [Problem 17: Permutation Chiper](https://codefights.com/arcade/python-arcade/slithering-in-strings/YADembruQtLCmiBKB) | [solution](slithering-in-strings/problem-17)
+* [Problem 18: Competitive Eating](https://codefights.com/arcade/python-arcade/slithering-in-strings/BPFsda3ddPJruBX24) | [solution](slithering-in-strings/problem-18)
+* [Problem 19: New Style Formatting](https://codefights.com/arcade/python-arcade/slithering-in-strings/GADdmPKQivSzQGYLw) | [solution](slithering-in-strings/problem-19)
+* [Problem 20: Get commit](https://codefights.com/arcade/python-arcade/slithering-in-strings/FmSEJMu8fbybQ7Ka4) | [solution](slithering-in-strings/problem-20)
 
 ## Lurking in Lists
 
