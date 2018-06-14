@@ -36,10 +36,10 @@
 
 ## Lambda Illusions
 
-* [Problem 26: Repeat Char](https://codefights.com/arcade/python-arcade/lambda-illusions/bCAsRfNJrjD9zhxkS)
-* [Problem 27: Get Points](https://codefights.com/arcade/python-arcade/lambda-illusions/kYGchiunT4QtB5Dh9)
-* [Problem 28: Sort Students](https://codefights.com/arcade/python-arcade/lambda-illusions/EqEoH6umA9Xi8fTQM)
-* [Problem 29: Is Test Solvable](https://codefights.com/arcade/python-arcade/lambda-illusions/eP7hJDmLdZym2Kdo3)
+* [Problem 26: Repeat Char](https://codefights.com/arcade/python-arcade/lambda-illusions/bCAsRfNJrjD9zhxkS) | [solution](lambda-illusions/problem-26)
+* [Problem 27: Get Points](https://codefights.com/arcade/python-arcade/lambda-illusions/kYGchiunT4QtB5Dh9) | [solution](lambda-illusions/problem-27)
+* [Problem 28: Sort Students](https://codefights.com/arcade/python-arcade/lambda-illusions/EqEoH6umA9Xi8fTQM) | [solution](lambda-illusions/problem-28)
+* [Problem 29: Is Test Solvable](https://codefights.com/arcade/python-arcade/lambda-illusions/eP7hJDmLdZym2Kdo3) | [solution](lambda-illusions/problem-29)
 
 ## Complexity Of Comprehension
 
