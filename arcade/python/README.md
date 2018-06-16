@@ -43,11 +43,11 @@
 
 ## Complexity Of Comprehension
 
-* [Problem 30: Create Spiral Matrix](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/HZjrbpxa7gbrmb4kd)
-* [Problem 31: Construct Shell](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/DfDPhgb5Bj2HQSdr5)
-* [Problem 32: Word Power](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/5rZN7nJ7Tkd9S4TLC)
-* [Problem 33: Cool Pairs](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/a6DD4JaT2moH22XTf)
-* [Problem 34: Multiplication Table](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/vtDLcQWTSc5tJHL6x)
+* [Problem 30: Create Spiral Matrix](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/HZjrbpxa7gbrmb4kd) | [solution](complexity-of-comprehension/problem-30)
+* [Problem 31: Construct Shell](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/DfDPhgb5Bj2HQSdr5) | [solution](complexity-of-comprehension/problem-31)
+* [Problem 32: Word Power](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/5rZN7nJ7Tkd9S4TLC) | [solution](complexity-of-comprehension/problem-32)
+* [Problem 33: Cool Pairs](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/a6DD4JaT2moH22XTf) | [solution](complexity-of-comprehension/problem-33)
+* [Problem 34: Multiplication Table](https://codefights.com/arcade/python-arcade/complexity-of-comprehension/vtDLcQWTSc5tJHL6x) | [solution](complexity-of-comprehension/problem-34)
 
 ## Fumbling in Functional
 
