@@ -51,11 +51,11 @@
 
 ## Fumbling in Functional
 
-* [Problem 35: Chess Teams](https://codefights.com/arcade/python-arcade/fumbling-in-functional/z5SJJNMiSFyFDFpZR)
-* [Problem 36: Fix Result](https://codefights.com/arcade/python-arcade/fumbling-in-functional/TjCNTwysvW6za5Qh4)
-* [Problem 37: College Courses](https://codefights.com/arcade/python-arcade/fumbling-in-functional/hJqXodrjeBDPZPZRn)
-* [Problem 38: Create Histogram](https://codefights.com/arcade/python-arcade/fumbling-in-functional/rXovZdK7redkSJL5g)
-* [Problem 39: Least Common Denominator](https://codefights.com/arcade/python-arcade/fumbling-in-functional/cYG6vtfv6TJKPsvSY)
+* [Problem 35: Chess Teams](https://codefights.com/arcade/python-arcade/fumbling-in-functional/z5SJJNMiSFyFDFpZR) | [solution](fumbling-in-functional/problem-35)
+* [Problem 36: Fix Result](https://codefights.com/arcade/python-arcade/fumbling-in-functional/TjCNTwysvW6za5Qh4) | [solution](fumbling-in-functional/problem-36)
+* [Problem 37: College Courses](https://codefights.com/arcade/python-arcade/fumbling-in-functional/hJqXodrjeBDPZPZRn) | [solution](fumbling-in-functional/problem-37)
+* [Problem 38: Create Histogram](https://codefights.com/arcade/python-arcade/fumbling-in-functional/rXovZdK7redkSJL5g) | [solution](fumbling-in-functional/problem-38)
+* [Problem 39: Least Common Denominator](https://codefights.com/arcade/python-arcade/fumbling-in-functional/cYG6vtfv6TJKPsvSY) | [solution](fumbling-in-functional/problem-39)
 
 ## Caravan of Collections
 
