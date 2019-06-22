@@ -22,4 +22,4 @@ This repository contains my own solutions to problems posted in [Codefights](htt
 ### Challenges
 
 * Company challenges
-* Challenges
+* [Challenges](challenges)
